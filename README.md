@@ -6,3 +6,5 @@ Dans le répertoir API Visiplus, il y a le code pour une API afin d'obtenir via 
 Afin que l'APi fonctionne, il vous faudra resynthétiser les modèles en les nommant : modele_classification.joblib et modele_regression.joblib et le positionner dans le répertoire. 
 
 Afin de faciliter la création des deux fichiers, a coté de ce README, il y a un fichier ScriptModeleMeteo.ipynb il permet via collab de générer les modèles. 
+
+Pour la génération des modèles, il vous faudra extraire le fichier synop_2026.csv qui se trouve dans le fichier zip du meme nom et le mettre à disposition dans collab.
