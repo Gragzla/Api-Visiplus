@@ -1,0 +1,26 @@
+﻿Nom du projet,Date de début,Date de fin,Joindre un fichier,Numéro,Personne assignée,Priorité,Équipe,État
+Identifier les entités du MCD,01/04/2026,01/04/2026,,1,,,Conception,Pas commencé
+Identifier les relations du MCD,02/04/2026,02/04/2026,,2,,,Conception,Pas commencé
+Identifier les contraintes du MCD,03/04/2026,03/04/2026,,3,,,Conception,Pas commencé
+Création du MCD,06/04/2026,07/04/2026,,4,,,Conception,Pas commencé
+Réalisation du MLD,07/04/2026,08/04/2026,,5,,,Conception,Pas commencé
+Réalisation du modèle physique de la base,09/04/2026,10/04/2026,,6,,,Conception,Pas commencé
+Détermination architecture de l’application,06/04/2026,08/04/2026,,7,,,Architecture,Pas commencé
+"Déterminer les fonctions exposées ",09/04/2026,10/04/2026,,8,,,Architecture,Pas commencé
+Implémentation interface BDD,20/04/2026,21/04/2026,,9,,,Développement,Pas commencé
+Implémentation de l’interface pour l’IA,22/04/2026,23/04/2026,,10,,,Développement,Pas commencé
+Définition des cas d’usage,01/04/2026,03/04/2026,,11,,,Métier,Pas commencé
+Création maquette,06/04/2026,10/04/2026,,12,,,UI/UX,Pas commencé
+"[Estimation risque]Design de l’écran ",16/04/2026,17/04/2026,,13,,,Développement,Pas commencé
+Calcul de l’estimation du risque,24/04/2026,24/04/2026,,14,,,Développement,Pas commencé
+Obtention des données,01/04/2026,01/04/2026,,15,,,Data Analystes,Pas commencé
+Typage des données,02/04/2026,02/04/2026,,16,,,Data Analystes,Pas commencé
+Normalisation des données,08/04/2026,08/04/2026,,17,,,Data Analystes,Pas commencé
+Définition des corrélations dans les données,07/04/2026,07/04/2026,,18,,,Data Analystes,Pas commencé
+Entrainement du modèle,09/04/2026,10/04/2026,,19,,,Data Analystes,Pas commencé
+Correction des données du jeu,02/04/2026,03/04/2026,,20,,,Data Analystes,Pas commencé
+Calcul des variables statistiques du jeu de donnée,02/04/2026,03/04/2026,,21,,,Data Analystes,Pas commencé
+Réaliser les graphiques statistiques,06/04/2026,06/04/2026,,22,,,Data Analystes,Pas commencé
+Choix du modèle de ML,09/04/2026,09/04/2026,,23,,,Data Analystes,Pas commencé
+Mise à disposition du modèle de ML,13/04/2026,14/04/2026,,24,,,Data Analystes,Pas commencé
+Création de la solution,10/04/2026,15/04/2026,,,,,Développement,Pas commencé
